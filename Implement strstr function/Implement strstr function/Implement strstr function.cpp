@@ -2,7 +2,7 @@
 #include <cstring>
 using namespace std;
 char* my_strstr(char* str, char* strSearch, char* strChange);
-
+/* This is implement of strstr function of string */
 int main()
 {
 	char str[100] = { 0 }, strSearch[100] = { 0 }, strChange[100] = { 0 };
