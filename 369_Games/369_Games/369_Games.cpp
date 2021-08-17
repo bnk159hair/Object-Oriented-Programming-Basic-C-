@@ -2,6 +2,10 @@
 #include<iomanip>
 using namespace std;
 
+/*
+	This is 3 6 9 Game
+*/
+
 class ThreeSixNine
 {
 public:
