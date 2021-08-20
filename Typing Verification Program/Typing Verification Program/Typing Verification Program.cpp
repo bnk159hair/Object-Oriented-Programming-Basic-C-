@@ -4,7 +4,7 @@
 #include <ctime>
 using namespace std;
 
-double CheckStr(char str1[], char str2[]);
+double CheckStr(char str1[], char str2[]); //Compare string function
 
 int main()
 {
