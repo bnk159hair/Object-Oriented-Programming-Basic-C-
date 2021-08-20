@@ -51,5 +51,5 @@ char* my_strstr(char* str, char* strSearch, char* strChange)
 		Tem[str3 + i] = Ex[i];
 	cout << "변경된 문자열: " << endl;
 	cout << str << endl;
-	return 0;
+	return 0; //The end of Program
 }
